@@ -1,0 +1,501 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+font-size:12px;
+color:#494A4C;
+
+}
+
+h1
+{
+	font-size: 36px; 
+}
+
+h2
+{
+	font-size: 30px; 
+}
+
+
+.container
+{
+	width: 1280px;
+	height: 5000px;
+	background-color:white;
+	margin: 0 auto;	
+}
+.slider
+{
+	width: 1280px;
+	height: 799px;
+	background: url(../Image/De-01_01.jpg);
+	margin: 0 auto;	
+}
+
+.slidertext
+{
+	width: 900px;
+	height: 230px;
+	background-color: transparent;
+	margin: auto;
+	padding: 180px 0 0 0;
+}
+.slidertext1
+{
+	width: 900px;
+	height: 150px;
+	background-color:transparent;
+	margin: auto;
+
+}
+.slidertextcon1
+{
+	width: 900px;
+	height: 709px;
+	background-color: transparent;
+	margin: auto;
+	padding: 180px 0 0 0;
+}
+
+.buttonslider1
+{
+	width:110px;
+	height:15px;
+	background-color: transparent;
+	border-radius:45px;
+	font-size:12px;
+	text-align: center;
+	padding: 15px;
+	border-style:solid;
+	border-width: 1px;
+	float: left;
+
+}
+.buttonslider1:hover
+{
+	background-color:#fdce76;
+	color: white;
+}
+
+.buttonslider2
+{
+	width:110px;
+	height:15px;
+	background-color:#fdce76;
+	border-radius:45px;
+	font-size:12px;
+	text-align: center;
+	padding: 15px;
+	float: left;
+	margin: 0 0 0 40px;
+}
+
+.buttonslider2:hover
+{
+	color: white;
+}
+
+.header
+{
+	width:899px;
+	height: 90px;
+	background-color:beige;
+	margin: 0 auto;	
+}
+
+.logo
+{
+	width: 120px;
+	height: 90px;
+	background: url(../Image/De-01_02.jpg);
+	float: left;
+
+}
+
+.menu
+{
+	width: 563px;
+	height: 90px;
+	background: url(../Image/De-01_03.jpg);
+	float: left;
+}
+
+.menubutton
+{
+	width: 216px;
+	height: 90px;
+	background: url(../Image/De-01_04.jpg);
+	float: right;
+
+}
+
+.button
+{
+	width:210px;
+	height:15px;
+	background-color: transparent;
+	margin: 35px 0 0 0;
+	border-radius:25px;
+	font-size:12px;
+	text-align: center;
+	padding: 15px;
+	color: white;
+	border-style: solid;
+	border-width: 1px;
+}
+.button:hover
+{
+	background:#fdce76;
+}
+ul
+{	list-style: none;
+	
+}
+ul li
+{	float:left;
+	padding: 40px 20px 40px 20px;
+	position: relative;
+	
+}
+ul li a:hover
+{	color:#fdce76;
+}
+ul li a
+{	text-decoration: none;
+	color: white;
+}
+
+
+.middle1
+{
+	width: 1280px;
+	height: 440px;
+	background-color:#3265da;
+	margin: 0 auto;
+	
+}
+
+.content1
+{
+	width: 914.6px;
+	height: 440px;
+	background-color:#3265da;
+	margin: 0 auto;
+}
+.content1a
+{
+	width: 214px;
+	height: 280px;	
+	background-color:#4675dd;
+	float:left;
+	margin: 80px 7.3px 80px 7.3px;
+}
+
+.image1
+{
+	width: 95px;
+	height:69px;	
+	background-color: aquamarine;
+	margin: 35px 59.5px 15px 59.5px;
+}
+
+.text1
+{
+	width: 140px;
+	height:135px;	
+	background-color:#4675dd;
+	margin: auto 35px auto 35px;
+	text-align:center;
+	font-size: 12px;
+	font-weight: 200;
+	color: white;
+	
+}
+
+.middle2
+{
+	width: 1280px;
+	height: 900px;
+	background-color:white;
+	margin: 0 auto;	
+	
+}
+.content2a
+{
+	width: 900px;
+	height: 490px;
+	background-color:white;
+	margin: 0 auto;
+}
+.button2
+{
+	width:110px;
+	height:15px;
+	background-color:#fdce76;
+	border-radius:45px;
+	font-size:12px;
+	text-align: center;
+	padding: 15px;
+}
+
+.button2:hover
+{
+	color: white;
+}
+.text2a
+{
+	width: 414px;
+	height: 341px;
+	background-color:white;
+	float: left;
+	margin: 149px 0 0 0;
+}
+
+.image2a
+{
+	width: 486px;
+	height: 341px;
+	background: url(../Image/De-01_17.jpg);
+	float: right;
+	margin: 149px 0 0 0;		
+}
+
+.content2b
+{
+	width: 900px;
+	height: 260px;
+	background-color:white;
+	margin: auto;
+}
+
+.content2bline
+{
+	width: 900px;
+	height: 75px;
+	background-color: white;
+	margin: auto;
+	padding-top: 75px;
+
+}
+.line
+{
+	width: 900px;
+	height: 1px;
+	background-color:darkgray;
+	
+}
+.text2b
+{
+	width: 300px;
+	height: 260px;
+	background-color: transparent;
+	float: left;
+}
+.text2button
+{
+	width: 23px;
+	height: 27px;
+	background-color: transparent;
+	border: 1.5px solid #3265da;
+	float: left;
+}
+.text2text
+{
+	width: 200px;
+	height: 100px;
+	background-color:transparent;
+	float: left;
+	margin-left: 45px;
+	padding-top: -10px;
+}
+
+.middle3
+{
+	width: 1280px;
+	height: 282px;
+	background: url(../Image/De-01_19.jpg);
+
+}
+.content3
+{
+	width: 900px;
+	height: 282px;
+	background-color:transparent;
+	margin: auto;
+}
+.text3
+{
+	width: 225px;
+	height: 282px;
+	background-color:transparent;
+	float: left;
+}
+.text3text
+{
+	width: 225px;
+	height: 100px;
+	background-color:transparent;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 10.5px;
+}
+
+.middle4
+{
+	width: 1280px;
+	height: 560px;
+	background-color:white;
+	margin: 0 auto;	
+}
+
+.content4
+{
+	width: 900px;
+	height: 341px;
+	background-color:white;
+	margin: auto;
+}
+
+.text4
+{
+	width: 367px;
+	height: 341px;
+	background-color:transparent;
+	float: right;
+	margin: 75px 0 0 0;
+	padding-left: 48px;
+}
+
+.image4
+{
+	width: 485px;
+	height: 341px;
+	background: url(../Image/De-01_22.jpg);
+	float: left;
+	margin: 75px 0 0 0;		
+}
+
+.middle5
+{
+	width: 1280px;
+	height: 200px;
+	background-color:whitesmoke;
+	text-align: center;
+	font-size: 15px; 
+	margin: 0 auto;	
+	padding: 65px 0 0 0;
+}
+
+.middle6
+{
+	width: 1280px;
+	height: 244px;
+	background: url(../Image/De-01_25.jpg);
+	margin: 0 auto;	
+}
+.middle7
+{
+	width: 1280px;
+	height: 486px;
+	background-color:#3265da;
+	margin: 0 auto;	
+}
+.content7
+{
+	width: 900px;
+	height: 486px;
+	background-color:transparent;
+	margin: 0 auto;
+}
+
+.text7
+{
+	width: 300px;
+	height: 86px;
+	background-color:transparent;
+	float: left;
+	text-align: center;
+	padding-top: 400px;
+	color: white;
+}
+.footer
+{
+	width: 1280px;
+	height: 50px;
+	background-color:#23262b;
+	margin: 0 auto;
+	color: #fdce76;
+	text-align: center;
+	padding-top: 50px;
+	float: left;
+	font-size: 20px;
+}
+
+.footer1
+{
+	width: 1280px;
+	height: 80px;
+	background-color:#23262b;
+	margin: 0 auto;
+	float: left;
+}
+.menufooter1
+{
+	width: 563px;
+	height: 60px;
+	background-color:transparent;
+	margin: 0 auto;
+}
+.footer2
+{
+	width: 1280px;
+	height: 70px;
+	background-color:#23262b;
+	margin: 0 auto;
+	float: left;
+}
+.menufooter2
+{
+	width: 270px;
+	height: 50px;
+	background-color:transparent;
+	margin: 0 auto;
+	padding-top: 20px;
+	
+}
+.menufooter2button
+{
+	width: 50px;
+	height: 50px;
+	background-color:white;
+	border-radius: 50px;
+	float: left;
+	margin: 0 2px 0 2px;
+			
+}
+
+.menufooter2buttoncon
+{
+	width: 5px;
+	height: 5px;
+	background-color:white;
+	border-style: solid;
+	margin: 21px;	
+			
+}
+.footer3
+{
+	width: 1280px;
+	height: 85px;
+	background-color:#23262b;
+	margin: 0 auto;
+	color:white;
+	text-align: center;
+	padding-top: 40px;
+	float: left;
+}
+
